@@ -58,13 +58,7 @@ The following are instructions for downloading this GitHub repository in order t
 
 #### Implemented <img src="./images/npm.png" width="50" title="npm logo"> Packages
 
-<img src="./images/nodejs.png" width="200" title="Node JS logo">
-<img src="./images/nodemailer.png" width="200" title="Node Mailer logo">
-<img src="./images/sequelize.png" width="200" title="Sequelize logo">
-<img src="./images/dotenv.png" width="200" title="DotEnv logo">
-<img src="./images/express.png" width="200" title="Express logo">
-<img src="./images/handlebars.png" width="200" title="Handlebars logo">
-<img src="./images/mysql2.svg" width="200" title="MySQL 2 logo">
+<img src="./images/nodejs.png" width="200" title="Node JS logo"> <img src="./images/nodemailer.png" width="200" title="Node Mailer logo"> <img src="./images/sequelize.png" width="200" title="Sequelize logo"> <img src="./images/dotenv.png" width="200" title="DotEnv logo"> <img src="./images/express.png" width="200" title="Express logo"> <img src="./images/handlebars.png" width="200" title="Handlebars logo"> <img src="./images/mysql2.svg" width="200" title="MySQL 2 logo">
 
 
 #### Create a standard .gitnore file 
