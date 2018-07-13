@@ -1,6 +1,7 @@
 <center> 
 
-# The Coding Boot Camp Pipeline Network </center>
+# The Coding Boot Camp Pipeline Network 
+</center>
 
 <p align="center">
   <img src="./images/meetupimage.jpg" width="600" title="Meet Up Image">
@@ -16,7 +17,7 @@
 * [Credits](#Credits)
 * [License](#License)
 
-<center>
+
 
 ## About Our Project
 
@@ -30,29 +31,29 @@ The Coding Boot Camp Pipeline Network seeks to leverage the awesome talents of n
 
 
 
-## <a name="Description"></a>Description</center>
+## <a name="Description"></a>Description
 
 The Coding Boot Camp Pipeline Network will build a web based application that handles a membership-based searchable database in order to foster valuable connections, creativity and collaborations.  The application allows users to connect with others for job opportunities, mentoring, and open source collaboration.  Users will be able to import their linkedIn profile and expand it into a more comprehensive profile to give members a deeper dive into their work experience, their education, their passions and interest, and their career aspirations.
 
-<center>
 
-## <a name="Usage"></a>Usage</center>
+
+## <a name="Usage"></a>Usage
 
 ### TBD
 
-<center>
 
-## <a name="Contributing"></a>Contributing</center>
+
+## <a name="Contributing"></a>Contributing
 
 Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to begin a discussion on what you feel should be added to the project.
 
-## <a name="Credits"></a>Credits</center>
+## <a name="Credits"></a>Credits
 
 * "Reinaldo Llano"<reinaldo@projectcodex.biz> - Application Team Leader and and Full Stack Developer
 * "Lee Warrick" <lee@projectcodex.biz> - Application Co-Team Leader and Full Stack Developer
 * "Jon Disla" <jon@projectcodex.biz> - Full Stack Developer
 * "Jeff Nabors" <jeffnaborsdev@gmail.com> - Full Stack Developer
-* "Your Name Here" <youremail@example.com> - Your Title<center>
+* "Your Name Here" <youremail@example.com> - Your Title
   
   
 
