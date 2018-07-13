@@ -1,6 +1,6 @@
 <center> 
 
-# The Coding Boot Camp Pipeline Network
+# The Coding Boot Camp Pipeline Network </center>
 
 <p align="center">
   <img src="./images/meetupimage.jpg" width="600" title="Meet Up Image">
