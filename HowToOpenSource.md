@@ -78,12 +78,13 @@ Then open git bash in the directory/folder on your machine you want to work in a
   
 1. Set your upstream `remote` to the Main Project's repo.  
 Go back to github and repeat the previous step using the original project's repo homepage.  
-Don't clone it down again, just copy that link under "clone or download"
+Don't clone it down again, just copy that link under "clone or download"  
 Now on your machine in git bash enter `git remote add upstream <paste the link here>`  
 This adds a way for you to pull changes from the source project down to your local machine.  
 **This is important because you must assume the source project is constantly changing!**  
   
-1. Make whatever changes you want to make then `add` and `commit` them. **Don't** `push`.   
+1. Make whatever changes you want to make then `add` and `commit` them.  
+**Don't** `push`.   
 `git add .` then `git commit -m "<description of your changes>"`  
 **Don't Push yet!**
 
@@ -99,7 +100,7 @@ You can't send your changes directly to the original project/upstream.
 
 1. Now submit a pull request!  
 Click the "pull request" button on your repo page.  
-This lets the repo owners know that you have made some changes for them to review.  
+This lets the original repo owners know that you have made some changes for them to review.  
 If they like them, they'll be merged in.  
 If not, they may ask you to make some changes, which you can then implement and resubmit.  
   
@@ -114,7 +115,7 @@ Sure! Here's a video from The Odin Project (a free online web bootcamp) about ho
 
 ## Where can I practice contributing to Open Source?
 
-You can start by contributing to Project Codex's Open Source Repos! Either fork this repo and help add to this readme or the main readme, or maybe just fix a typo, or sign your name to the credits [here](https://github.com/ProjectCodex/OpenSourceProjects#Credits).
+You can start by contributing to Project Codex's Open Source Repos! Either fork this repo and help add to this readme or the main readme, or maybe just fix a typo, or sign your name to the credits [here](https://github.com/ProjectCodex/OpenSourceProjects#credits).
 
 There's also some different sites that aggregate beginner-friendly open source projects:
 * [Up For Grabs](https://up-for-grabs.net/#/)
