@@ -27,7 +27,7 @@ The Coding Boot Camp Pipeline Network seeks to leverage the awesome talents of n
 1. Help capture important and relevant information about its members work experience, programming knowledge, training, hidden talents and interests.
 2. Help connect students with graduates, mentees with mentors, job seekers with hiring managers, and entreprenuers with expert advisers.
 3. Help contributors gain valuable experience in the web development cycle (creating, scoping, architecting, coding, collaborating, and promoting) to further enhance their marketability as an prospective employee.
-
+4. Help build confidence in developers (at every point in the journey) by sharpening their competence with real experience and guidance.
 
 
 ## Description
@@ -51,7 +51,7 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "Lee Warrick" <lee@projectcodex.biz> - Application Co-Team Leader and Full Stack Developer
 * "Jon Disla" <jon@projectcodex.biz> - Full Stack Developer
 * "Jeff Nabors" <jeffnaborsdev@gmail.com> - Full Stack Developer
-* "Your Name Here" <youremail@example.com> - Your Title
+* "James Calderon" <j.e.calderon@gmail.com> - Software Developer
   
   
 
