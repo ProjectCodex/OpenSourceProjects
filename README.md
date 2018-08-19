@@ -1,5 +1,3 @@
-[Go to duh other file](./HowToOpenSource.md)
-
 <center> 
 
 # The Coding Boot Camp Pipeline Network 
@@ -11,7 +9,7 @@
 
 # Table of Contents:
 
-* [About Our Project](#Project)
+* [About Our Project](#About-Our-Project)
 * [Project Description](#Description)
 * [Usage](#Usage)
 * [Contributing](#Contributing)
@@ -32,23 +30,22 @@ The Coding Boot Camp Pipeline Network seeks to leverage the awesome talents of n
 
 
 
-## <a name="Description"></a>Description
+## Description
 
 The Coding Boot Camp Pipeline Network will build a web based application that handles a membership-based searchable database in order to foster valuable connections, creativity and collaborations.  The application allows users to connect with others for job opportunities, mentoring, and open source collaboration.  Users will be able to import their linkedIn profile and expand it into a more comprehensive profile to give members a deeper dive into their work experience, their education, their passions and interest, and their career aspirations.
 
 
 
-## <a name="Usage"></a>Usage
+## Usage
 
-### TBD
+[How to Contribute to Open Source](./HowToOpenSource.md)
 
 
-
-## <a name="Contributing"></a>Contributing
+## Contributing
 
 Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to begin a discussion on what you feel should be added to the project.
 
-## <a name="Credits"></a>Credits
+## Credits
 
 * "Reinaldo Llano"<reinaldo@projectcodex.biz> - Application Team Leader and and Full Stack Developer
 * "Lee Warrick" <lee@projectcodex.biz> - Application Co-Team Leader and Full Stack Developer
@@ -58,6 +55,6 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
   
   
 
-## <a name="Licence"></a> License
+## License
 
 >   [MIT](https://github.com/ProjectCodex/TCBC-PipelineNetwork/blob/master/LICENSE)
