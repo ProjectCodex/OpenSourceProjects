@@ -1,3 +1,5 @@
+[Go to duh other file](./HowToOpenSource.md)
+
 <center> 
 
 # The Coding Boot Camp Pipeline Network 
