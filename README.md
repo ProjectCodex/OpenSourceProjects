@@ -11,7 +11,6 @@
 
 * [About Our Project](#Project)
 * [Project Description](#Description)
-* [How to Install](#Installation)
 * [Usage](#Usage)
 * [Contributing](#Contributing)
 * [Credits](#Credits)
@@ -57,6 +56,6 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
   
   
 
-##<a name="Licence"></a> License
+## <a name="Licence"></a> License
 
 >   [MIT](https://github.com/ProjectCodex/TCBC-PipelineNetwork/blob/master/LICENSE)
