@@ -9,12 +9,12 @@
 
 # Table of Contents:
 
-* [About Our Project](#About-Our-Project)
-* [Project Description](#Description)
-* [Usage](#Usage)
-* [Contributing](#Contributing)
-* [Credits](#Credits)
-* [License](#License)
+* [About Our Project](#about-our-project)
+* [Project Description](#description)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Credits](#credits)
+* [License](#license)
 
 
 
