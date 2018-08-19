@@ -97,8 +97,8 @@ If there are, you'll have to fix those conflicts and then save, `git add .` and 
 Now you need to push your changes to your _forked_ repo.  
 You can't send your changes directly to the original project/upstream.  
 
-1. Now go back to that original projects repo and submit a pull request!  
-Find your commits on the page and click the "submit a pull request" button.  
+1. Now submit a pull request!  
+Click the "pull request" button on your repo page.  
 This lets the repo owners know that you have made some changes for them to review.  
 If they like them, they'll be merged in.  
 If not, they may ask you to make some changes, which you can then implement and resubmit.  
