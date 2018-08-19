@@ -11,7 +11,7 @@
 
 * [About Our Project](#about-our-project)
 * [Project Description](#description)
-* [Usage](#usage)
+* [Open Source FAQ](#open-source-faq)
 * [Contributing](#contributing)
 * [Credits](#credits)
 * [License](#license)
@@ -36,7 +36,7 @@ The Coding Boot Camp Pipeline Network will build a web based application that ha
 
 
 
-## Usage
+## Open Source FAQ
 
 [How to Contribute to Open Source](./HowToOpenSource.md)
 
