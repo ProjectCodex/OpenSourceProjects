@@ -2,14 +2,14 @@
 [1]: https://github.com/ProjectCodex
 
 ### Navigation
-* [What is Open Source?](#so-what-is-open-source?)
-* [What is Git?](#what-is-git?)
-* [Where do I download Git?](#where-do-i-download-git?)
+* [What is Open Source?](#so-what-is-open-source)
+* [What is Git?](#what-is-git)
+* [Where do I download Git?](#where-do-i-download-git)
 * [I need a Git Walkthrough](#i-need-a-git-walkthrough)
 * [I just need a quick Git Reference](#i-just-need-a-quick-git-reference)
-* [How do I use git on my own projects?](#how-do-i-use-git-on-my-own-projects?)
+* [How do I use git on my own projects?](#how-do-i-use-git-on-my-own-projects)
 * [How does Git work with Open Source Projects?](#how-does-git-work-with-open-source-projects)
-* [Where can I practice contributing to Open Source?](#where-can-i-practice-contributing-to-open-source?)
+* [Where can I practice contributing to Open Source?](#where-can-i-practice-contributing-to-open-source)
 ---
 ## So what is Open Source?
 
