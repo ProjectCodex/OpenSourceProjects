@@ -121,6 +121,7 @@ Sure! Here's a video from The Odin Project (a free online web bootcamp) about ho
 You can start by contributing to Project Codex's Open Source Repos! Either fork this repo and help add to this readme or the main readme, or maybe just fix a typo, or sign your name to the credits [here](https://github.com/ProjectCodex/OpenSourceProjects#credits).
 
 There's also some different sites that aggregate beginner-friendly open source projects:
+* [First Contributions](https://github.com/Roshanjossey/first-contributions)
 * [Up For Grabs](https://up-for-grabs.net/#/)
 * [First Timers Only](https://www.firsttimersonly.com/)
 * [Your First PR](http://yourfirstpr.github.io/)
