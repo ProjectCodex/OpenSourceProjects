@@ -9,12 +9,15 @@
 
 # Table of Contents:
 
-* [About Our Project](#about-our-project)
-* [Project Description](#description)
-* [Open Source FAQ](#open-source-faq)
-* [Contributing](#contributing)
-* [Credits](#credits)
-* [License](#license)
+- [The Coding Boot Camp Pipeline Network](#the-coding-boot-camp-pipeline-network)
+- [Table of Contents:](#table-of-contents)
+  - [About Our Project](#about-our-project)
+      - [Project Scope](#project-scope)
+  - [Description](#description)
+  - [Open Source FAQ](#open-source-faq)
+  - [Contributing](#contributing)
+  - [Credits](#credits)
+  - [License](#license)
 
 
 
@@ -52,8 +55,7 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "Jon Disla" <jon@projectcodex.biz> - Full Stack Developer
 * "Jeff Nabors" <jeffnaborsdev@gmail.com> - Full Stack Developer
 * "James Calderon" <j.e.calderon@gmail.com> - Software Developer
-  
-  
+* "Javier Carrion" <javiercarrionjr@outlook.co> - QA Analyst
 
 ## License
 
