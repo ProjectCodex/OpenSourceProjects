@@ -2,14 +2,17 @@
 [1]: https://github.com/ProjectCodex
 
 ### Navigation
-* [What is Open Source?](#so-what-is-open-source)
-* [What is Git?](#what-is-git)
-* [Where do I download Git?](#where-do-i-download-git)
-* [I need a Git Walkthrough](#i-need-a-git-walkthrough)
-* [I just need a quick Git Reference](#i-just-need-a-quick-git-reference)
-* [How do I use git on my own projects?](#how-do-i-use-git-on-my-own-projects)
-* [How does Git work with Open Source Projects?](#how-does-git-work-with-open-source-projects)
-* [Where can I practice contributing to Open Source?](#where-can-i-practice-contributing-to-open-source)
+- [Welcome to [Project Codex's][1] Open Source FAQ!](#welcome-to-project-codexs1-open-source-faq)
+        - [Navigation](#navigation)
+    - [So what is Open Source?](#so-what-is-open-source)
+    - [What is Git?](#what-is-git)
+    - [Where do I download Git?](#where-do-i-download-git)
+    - [I Need a Git Walkthrough](#i-need-a-git-walkthrough)
+    - [I just need a quick Git Reference](#i-just-need-a-quick-git-reference)
+    - [How do I use git on my own projects?](#how-do-i-use-git-on-my-own-projects)
+    - [How does Git work with Open Source Projects?](#how-does-git-work-with-open-source-projects)
+        - [That was confusing. Can you walk me through that again?](#that-was-confusing-can-you-walk-me-through-that-again)
+    - [Where can I practice contributing to Open Source?](#where-can-i-practice-contributing-to-open-source)
 ---
 ## So what is Open Source?
 
@@ -123,4 +126,4 @@ There's also some different sites that aggregate beginner-friendly open source p
 * [Your First PR](http://yourfirstpr.github.io/)
 * [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)
 
-Project Codex is focused on getting its members comfortable with Open Source. Come out to our [meetup](meetup.com/project-code-experience) and ask us lots of questions!
+Project Codex is focused on getting its members comfortable with Open Source. Come out to our [meetup](https://www.meetup.com/project-code-experience/) and ask us lots of questions!
