@@ -1,6 +1,6 @@
-<center> 
+<center>
 
-# The Coding Boot Camp Pipeline Network 
+# The Coding Boot Camp Pipeline Network
 </center>
 
 <p align="center">
@@ -55,7 +55,7 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "Jon Disla" <jon@projectcodex.biz> - Full Stack Developer
 * "Jeff Nabors" <jeffnaborsdev@gmail.com> - Full Stack Developer
 * "James Calderon" <j.e.calderon@gmail.com> - Software Developer
-* "Javier Carrion" <javiercarrionjr@outlook.co> - QA Analyst
+* "Javier Carrion" <javiercarrionjr@outlook.com> - QA Analyst
 
 ## License
 
