@@ -1,6 +1,9 @@
 <center>
 
+
 # The Coding Boot Camp Pipeline Network
+
+
 </center>
 
 <p align="center">
@@ -12,14 +15,12 @@
 - [The Coding Boot Camp Pipeline Network](#the-coding-boot-camp-pipeline-network)
 - [Table of Contents:](#table-of-contents)
   - [About Our Project](#about-our-project)
-      - [Project Scope](#project-scope)
+    - [Project Scope](#project-scope)
   - [Description](#description)
   - [Open Source FAQ](#open-source-faq)
   - [Contributing](#contributing)
   - [Credits](#credits)
   - [License](#license)
-
-
 
 ## About Our Project
 
@@ -32,17 +33,13 @@ The Coding Boot Camp Pipeline Network seeks to leverage the awesome talents of n
 3. Help contributors gain valuable experience in the web development cycle (creating, scoping, architecting, coding, collaborating, and promoting) to further enhance their marketability as an prospective employee.
 4. Help build confidence in developers (at every point in the journey) by sharpening their competence with real experience and guidance.
 
-
 ## Description
 
-The Coding Boot Camp Pipeline Network will build a web based application that handles a membership-based searchable database in order to foster valuable connections, creativity and collaborations.  The application allows users to connect with others for job opportunities, mentoring, and open source collaboration.  Users will be able to import their linkedIn profile and expand it into a more comprehensive profile to give members a deeper dive into their work experience, their education, their passions and interest, and their career aspirations.
-
-
+The Coding Boot Camp Pipeline Network will build a web based application that handles a membership-based searchable database in order to foster valuable connections, creativity and collaborations. The application allows users to connect with others for job opportunities, mentoring, and open source collaboration. Users will be able to import their linkedIn profile and expand it into a more comprehensive profile to give members a deeper dive into their work experience, their education, their passions and interest, and their career aspirations.
 
 ## Open Source FAQ
 
 [How to Contribute to Open Source](./HowToOpenSource.md)
-
 
 ## Contributing
 
@@ -50,13 +47,16 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 
 ## Credits
 
+
 * "Reinaldo Llano"<reinaldo@projectcodex.biz> - Application Team Leader and and Full Stack Developer
 * "Lee Warrick" <lee@projectcodex.biz> - Application Co-Team Leader and Full Stack Developer
 * "Jon Disla" <jon@projectcodex.biz> - Full Stack Developer
 * "Jeff Nabors" <jeffnaborsdev@gmail.com> - Full Stack Developer
 * "James Calderon" <j.e.calderon@gmail.com> - Software Developer
 * "Javier Carrion" <javiercarrionjr@outlook.com> - QA Analyst
+- "Victor Rivera" <verm2405@gmail.com> - Full Stack Developer
+
 
 ## License
 
->   [MIT](https://github.com/ProjectCodex/TCBC-PipelineNetwork/blob/master/LICENSE)
+> [MIT](https://github.com/ProjectCodex/TCBC-PipelineNetwork/blob/master/LICENSE)
