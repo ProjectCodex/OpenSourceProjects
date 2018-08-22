@@ -1,6 +1,8 @@
 <center>
 
+
 # The Coding Boot Camp Pipeline Network
+
 
 </center>
 
@@ -45,13 +47,15 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 
 ## Credits
 
-- "Reinaldo Llano"<reinaldo@projectcodex.biz> - Application Team Leader and and Full Stack Developer
-- "Lee Warrick" <lee@projectcodex.biz> - Application Co-Team Leader and Full Stack Developer
-- "Jon Disla" <jon@projectcodex.biz> - Full Stack Developer
-- "Jeff Nabors" <jeffnaborsdev@gmail.com> - Full Stack Developer
-- "James Calderon" <j.e.calderon@gmail.com> - Software Developer
-- "Javier Carrion" <javiercarrionjr@outlook.co> - QA Analyst
+
+* "Reinaldo Llano"<reinaldo@projectcodex.biz> - Application Team Leader and and Full Stack Developer
+* "Lee Warrick" <lee@projectcodex.biz> - Application Co-Team Leader and Full Stack Developer
+* "Jon Disla" <jon@projectcodex.biz> - Full Stack Developer
+* "Jeff Nabors" <jeffnaborsdev@gmail.com> - Full Stack Developer
+* "James Calderon" <j.e.calderon@gmail.com> - Software Developer
+* "Javier Carrion" <javiercarrionjr@outlook.com> - QA Analyst
 - "Victor Rivera" <verm2405@gmail.com> - Full Stack Developer
+
 
 ## License
 
