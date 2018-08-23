@@ -124,5 +124,6 @@ There's also some different sites that aggregate beginner-friendly open source p
 * [First Timers Only](https://www.firsttimersonly.com/)
 * [Your First PR](http://yourfirstpr.github.io/)
 * [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/labels/first%20timers%20welcome)
 
 Project Codex is focused on getting its members comfortable with Open Source. Come out to our [meetup](https://www.meetup.com/project-code-experience/) and ask us lots of questions!
