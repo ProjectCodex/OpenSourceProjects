@@ -55,7 +55,7 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "James Calderon" <j.e.calderon@gmail.com> - Software Developer
 * "Javier Carrion" <javiercarrionjr@outlook.com> - QA Analyst
 - "Victor Rivera" <verm2405@gmail.com> - Full Stack Developer
-
+- "Edwin Rivera" <eddev5563@gmail.com> - Full Stack Developer 
 
 ## License
 
