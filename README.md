@@ -56,6 +56,7 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "Victor Rivera" <verm2405@gmail.com> - Full Stack Developer
 * "Edwin Rivera" <eddev5563@gmail.com> - Full Stack Developer 
 * "John Correia" <john@johnpcorreia.com> - Full Stack Developer 
+* "Ariana M. Davis" <hello@yourmobilegeek.tech> - Full Stack Developer 
 
 ## License
 
