@@ -1,8 +1,6 @@
 <center>
 
-
 # The Coding Boot Camp Pipeline Network
-
 
 </center>
 
@@ -15,7 +13,7 @@
 - [The Coding Boot Camp Pipeline Network](#the-coding-boot-camp-pipeline-network)
 - [Table of Contents:](#table-of-contents)
   - [About Our Project](#about-our-project)
-      - [Project Scope](#project-scope)
+    - [Project Scope](#project-scope)
   - [Description](#description)
   - [Open Source FAQ](#open-source-faq)
   - [Contributing](#contributing)
@@ -47,17 +45,17 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 
 ## Credits
 
-* "Reinaldo Llano"<reinaldo@projectcodex.biz> - Application Team Leader and and Full Stack Developer, `@llanoreinaldo`
-* "Lee Warrick" <lee@projectcodex.biz> - Application Co-Team Leader and Full Stack Developer
-* "Jon Disla" <jon@projectcodex.biz> - Full Stack Developer
-* "Jeff Nabors" <jeffnaborsdev@gmail.com> - Full Stack Developer
-* "James Calderon" <j.e.calderon@gmail.com> - Software Developer
-* "Javier Carrion" <javiercarrionjr@outlook.com> - QA Analyst
-* "Victor Rivera" <verm2405@gmail.com> - Full Stack Developer
-* "Edwin Rivera" <eddev5563@gmail.com> - Full Stack Developer 
-* "John Correia" <john@johnpcorreia.com> - Full Stack Developer 
-* "Ariana M. Davis" <hello@yourmobilegeek.tech> - Full Stack Developer 
-* "Rick Smith" <rs90th@gmail.com> - Software Developer
+- "Reinaldo Llano"<reinaldo@projectcodex.biz> - Application Team Leader and and Full Stack Developer, `@llanoreinaldo`
+- "Lee Warrick" <lee@projectcodex.biz> - Application Co-Team Leader and Full Stack Developer
+- "Jon Disla" <jon@projectcodex.biz> - Full Stack Developer
+- "Jeff Nabors" <jeffnaborsdev@gmail.com> - Full Stack Developer
+- "James Calderon" <j.e.calderon@gmail.com> - Software Developer
+- "Javier Carrion" <javiercarrionjr@outlook.com> - QA Analyst
+- "Victor Rivera" <verm2405@gmail.com> - Tech Support, '@LunarXer0'
+- "Edwin Rivera" <eddev5563@gmail.com> - Full Stack Developer
+- "John Correia" <john@johnpcorreia.com> - Full Stack Developer
+- "Ariana M. Davis" <hello@yourmobilegeek.tech> - Full Stack Developer
+- "Rick Smith" <rs90th@gmail.com> - Software Developer
 
 ## License
 
