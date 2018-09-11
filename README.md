@@ -49,7 +49,7 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 
 ## <a name="Credits"></a>Credits
 
-* "Reinaldo Llano"<reinaldo@projectcodex.biz> - Application Team Leader and and Full Stack Developer
+* "Reinaldo Llano"<reinaldo@projectcodex.biz> - Application Team Leader and and Full Stack Developer, https://github.com/llanoreinaldo
 * "Lee Warrick" <lee@projectcodex.biz> - Application Co-Team Leader and Full Stack Developer
 * "Jon Disla" <jon@projectcodex.biz> - Full Stack Developer
 * "Jeff Nabors" <jeffnaborsdev@gmail.com> - Full Stack Developer
