@@ -53,7 +53,7 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "Jon Disla" <jon@projectcodex.biz> - Full Stack Developer
 * "Jeff Nabors" <jeffnaborsdev@gmail.com> - Full Stack Developer
 * "James Calderon" <j.e.calderon@gmail.com> - Software Developer
-* "Javier Carrion" <javiercarrionjr@outlook.com> - QA Analyst
+* "Javier "Javi" Carrion" <javiercarrionjr@outlook.com> - QA Analyst
 - "Victor Rivera" <verm2405@gmail.com> - Full Stack Developer
 
 
