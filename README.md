@@ -59,6 +59,7 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "Ariana M. Davis" <hello@yourmobilegeek.tech> - Full Stack Developer 
 * "Rick Smith" <rs90th@gmail.com> - Software Developer
 * "Ben Gohlke" <jcgohlke@gmail.com> - iOS Developer, `@jcgohlke`
+* "Chris Albanees" <christopher@cafere.com> - Web Developer, `@Alba-C`
 
 ## License
 
