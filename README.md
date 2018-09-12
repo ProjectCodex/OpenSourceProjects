@@ -60,6 +60,7 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "Rick Smith" <rs90th@gmail.com> - Software Developer
 * "Ben Gohlke" <jcgohlke@gmail.com> - iOS Developer, `@jcgohlke`
 * "Jim Lee" <bass-guy@cfl.rr.com> - Software Developer, @shadowcab
+* "Juan Caballero" <caballero_juan_f@hotmail.com> - Full Stack Developer, `@juferca`
 
 ## License
 
