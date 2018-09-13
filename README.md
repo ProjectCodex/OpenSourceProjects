@@ -62,6 +62,8 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "Jim Lee" <bass-guy@cfl.rr.com> - Software Developer, @shadowcab
 * "Juan Caballero" <caballero_juan_f@hotmail.com> - Full Stack Developer, `@juferca`
 * "Eric Matson" <eric.matson@gmail.com> - Software Developer
+* "Tom Kilmer" <tom@spurintel.com> - Software Engineer and CTO, `@tlkilmer`
+* "Daniel Muller" <dm@danielmuller.com> - Full Stack Dev, `@drmulr`
 
 ## License
 
