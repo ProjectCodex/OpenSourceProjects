@@ -56,6 +56,7 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "John Correia" <john@johnpcorreia.com> - Full Stack Developer
 * "Ariana M. Davis" <hello@yourmobilegeek.tech> - Full Stack Developer
 * "Rick Smith" <rs90th@gmail.com> - Software Developer
+* "Scott Diemer" <sdiemer@cfl.rr.com> - Full Stack Developer, [@scottdiemer](https://github.com/scottdiemer)
 * "Alex Wetzel" <wetzela@live.com> - Junior Web Developer, [@AlexWetzel](https://github.com/AlexWetzel)
 * "Iramis Valentin" <iramisvalentin@gmail.com> - Software Developer and Test Automation Engineer
 * "Greg Weiss" <gergusa04@gmail.com> - iOS Developer at NeuLion College
