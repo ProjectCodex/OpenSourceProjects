@@ -1,8 +1,6 @@
 <center>
 
-
 # The Coding Boot Camp Pipeline Network
-
 
 </center>
 
@@ -15,7 +13,7 @@
 - [The Coding Boot Camp Pipeline Network](#the-coding-boot-camp-pipeline-network)
 - [Table of Contents:](#table-of-contents)
   - [About Our Project](#about-our-project)
-      - [Project Scope](#project-scope)
+    - [Project Scope](#project-scope)
   - [Description](#description)
   - [Open Source FAQ](#open-source-faq)
   - [Contributing](#contributing)
