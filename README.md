@@ -50,12 +50,13 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "Jon Disla" <jon@projectcodex.biz> - Full Stack Developer
 * "Jeff Nabors" <jeffnaborsdev@gmail.com> - Full Stack Developer
 * "James Calderon" <j.e.calderon@gmail.com> - Software Developer
-* "Javier "Javi" Carrion" <javiercarrionjr@outlook.com> - QA Analyst, `@JavaVista`
+* "Javier "Javi" Carrion" <javiercarrionjr@outlook.com> - QA Analyst, [@JavaVista](https://github.com/JavaVista)
 - "Victor Rivera" <verm2405@gmail.com> - Full Stack Developer
 * "Edwin Rivera" <eddev5563@gmail.com> - Full Stack Developer
 * "John Correia" <john@johnpcorreia.com> - Full Stack Developer
 * "Ariana M. Davis" <hello@yourmobilegeek.tech> - Full Stack Developer
 * "Rick Smith" <rs90th@gmail.com> - Software Developer
+* "Alex Wetzel" <wetzela@live.com> - Junior Web Developer, [@AlexWetzel](https://github.com/AlexWetzel)
 * "Iramis Valentin" <iramisvalentin@gmail.com> - Software Developer and Test Automation Engineer
 * "Greg Weiss" <gergusa04@gmail.com> - iOS Developer at NeuLion College
 * "Tim Rugg" <ruggt001@icloud.com> - Software Developer, [@TimRugg](https://github.com/TimRugg)
