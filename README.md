@@ -15,7 +15,7 @@
 - [The Coding Boot Camp Pipeline Network](#the-coding-boot-camp-pipeline-network)
 - [Table of Contents:](#table-of-contents)
   - [About Our Project](#about-our-project)
-    - [Project Scope](#project-scope)
+      - [Project Scope](#project-scope)
   - [Description](#description)
   - [Open Source FAQ](#open-source-faq)
   - [Contributing](#contributing)
@@ -47,7 +47,7 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 
 ## Credits
 
-* "Reinaldo Llano"<reinaldo@projectcodex.biz> - Application Team Leader and and Full Stack Developer, https://github.com/llanoreinaldo
+* "Reinaldo Llano"<reinaldo@projectcodex.biz> - Application Team Leader and and Full Stack Developer, `@llanoreinaldo`
 * "Lee Warrick" <lee@projectcodex.biz> - Application Co-Team Leader and Full Stack Developer
 * "Jon Disla" <jon@projectcodex.biz> - Full Stack Developer
 * "Jeff Nabors" <jeffnaborsdev@gmail.com> - Full Stack Developer
@@ -59,6 +59,13 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "Ariana M. Davis" <hello@yourmobilegeek.tech> - Full Stack Developer 
 * "Rick Smith" <rs90th@gmail.com> - Software Developer
 * "Kemi Thomas" <kemothom71@gmail.com> - Software Developer, `@kem247`
+* "Ben Gohlke" <jcgohlke@gmail.com> - iOS Developer, `@jcgohlke`
+* "Chris Albanese" <christopher@cafere.com> - Web Developer, `@Alba-C`
+* "Jim Lee" <bass-guy@cfl.rr.com> - Software Developer, @shadowcab
+* "Juan Caballero" <caballero_juan_f@hotmail.com> - Full Stack Developer, `@juferca`
+* "Eric Matson" <eric.matson@gmail.com> - Software Developer
+* "Tom Kilmer" <tom@spurintel.com> - Software Engineer and CTO, `@tlkilmer`
+* "Daniel Muller" <dm@danielmuller.com> - Full Stack Dev, `@drmulr`
 
 ## License
 
