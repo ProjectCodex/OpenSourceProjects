@@ -56,6 +56,7 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "John Correia" <john@johnpcorreia.com> - Full Stack Developer
 * "Ariana M. Davis" <hello@yourmobilegeek.tech> - Full Stack Developer
 * "Rick Smith" <rs90th@gmail.com> - Software Developer
+* "Natalie Roberts" <natroberts19@gmail.com> - Full Stack Developer
 * "Joel Tucker" <joelm.tucker@gmail.com> - Software Engineer, [@JT-Mark](https://github.com/HT-Mark)
 * "Brandon Anderson" <brandon_anderson11@hotmail.com> - IOS / Android Developer
 * "Rob Watson" <rob.watson@webidextrous.com> - CEO at [Webidextrous.com](https://webidextrous.com) - [@crobertwatson](https://github.com/crobertwatson)
