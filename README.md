@@ -58,6 +58,7 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "John Correia" <john@johnpcorreia.com> - Full Stack Developer 
 * "Ariana M. Davis" <hello@yourmobilegeek.tech> - Full Stack Developer 
 * "Rick Smith" <rs90th@gmail.com> - Software Developer
+* "Greg Weiss" <gergusa04@gmail.com> - iOS Developer at NeuLion College
 * "Tim Rugg" <ruggt001@icloud.com> - Software Developer, [@TimRugg](https://github.com/TimRugg)
 * "Kemi Thomas" <kemothom71@gmail.com> - Software Developer, [@kem247](https://github.com/kem247)
 * "Ben Gohlke" <jcgohlke@gmail.com> - iOS Developer, [@jcgohlke](https://github.com/jcgohlke)
