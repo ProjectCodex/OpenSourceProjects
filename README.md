@@ -58,7 +58,10 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "John Correia" <john@johnpcorreia.com> - Full Stack Developer 
 * "Ariana M. Davis" <hello@yourmobilegeek.tech> - Full Stack Developer 
 * "Rick Smith" <rs90th@gmail.com> - Software Developer
-* "Daniel Muller" <dm@danielmuller.com> - Developer - @drmulr
+* "Ben Gohlke" <jcgohlke@gmail.com> - iOS Developer, `@jcgohlke`
+* "Jim Lee" <bass-guy@cfl.rr.com> - Software Developer, @shadowcab
+* "Juan Caballero" <caballero_juan_f@hotmail.com> - Full Stack Developer, `@juferca`
+* "Daniel Muller" <dm@danielmuller.com> - Full Stack Dev, `@drmulr`
 
 ## License
 
