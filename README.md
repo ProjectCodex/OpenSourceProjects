@@ -74,7 +74,7 @@ Post an [issue](https://github.com/ProjectCodex/TCBC-PipelineNetwork/issues) to 
 * "Eric Matson" <eric.matson@gmail.com> - Software Developer
 * "Tom Kilmer" <tom@spurintel.com> - Software Engineer and CTO, [@tlkilmer](https://github.com/tlkilmer)
 * "Daniel Muller" <dm@danielmuller.com> - Full Stack Dev, [@drmulr](https://github.com/drmulr)
-
+* "Chris Gordon" <chrsgordon@hotmail.com> - Junior front end developer,(https://github.com/MrChristopherG)
 ## License
 
 > [MIT](https://github.com/ProjectCodex/TCBC-PipelineNetwork/blob/master/LICENSE)
