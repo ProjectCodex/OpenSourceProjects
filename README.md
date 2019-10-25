@@ -10,6 +10,7 @@
     - [Project Scope](#project-scope)
   - [Description](#description)
   - [Open Source FAQ](#open-source-faq)
+  - [Networking with your fellow Devs](#networking-with-your-fellow-devs)
   - [Contributing](#contributing)
   - [Credits](#credits)
   - [License](#license)
@@ -32,6 +33,10 @@ The Coding Boot Camp Pipeline Network will build a web based application that ha
 ## Open Source FAQ
 
 [How to Contribute to Open Source](./HowToOpenSource.md)
+
+## Networking with your fellow Devs
+
+[Networking Basics](./NetworkingBasics.md)
 
 ## Contributing
 

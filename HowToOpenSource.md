@@ -9,8 +9,9 @@
   - [I just need a quick Git Reference](#i-just-need-a-quick-git-reference)
   - [How do I use git on my own projects?](#how-do-i-use-git-on-my-own-projects)
   - [How does Git work with Open Source Projects?](#how-does-git-work-with-open-source-projects)
-    - [That was confusing. Can you walk me through that again?](#that-was-confusing-can-you-walk-me-through-that-again)
+  - [That was confusing. Can you walk me through that again?](#that-was-confusing-can-you-walk-me-through-that-again)
   - [Where can I practice contributing to Open Source?](#where-can-i-practice-contributing-to-open-source)
+  - [What if I can't afford a sandbox for coding?](#What-if-i-cant-afford-a-sandbox-for-coding?)
 ---
 ## So what is Open Source?
 
@@ -127,3 +128,9 @@ There's also some different sites that aggregate beginner-friendly open source p
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/labels/first%20timers%20welcome)
 
 Project Codex is focused on getting its members comfortable with Open Source. Come out to our [meetup](https://www.meetup.com/project-code-experience/) and ask us lots of questions!
+
+## What if I can't afford a sandbox for coding?
+
+You can start by checking out this list of free resources for developers. It's an extensive collection of cloud vendors and coding tools offering free options for people starting their dev journey. 
+Be sure to spread the word to your friends about the site so that others can enjoy it as well. 
+* [Free for Developers](https://free-for.dev/#/)
