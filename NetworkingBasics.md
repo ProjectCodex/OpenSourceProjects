@@ -28,9 +28,23 @@ Here's a great intro by Marcell Lipp in Dev.to:
 ## Okay, where can I go in Orlando?
 
 Since Project Codex is pretty heavily based in Orlando, we can definitely help you out. 
-1. To start, make sure you create a Meetup account on [Meetup.com](https://www.meetup.com/)
-Next, you can search for the term "Tech" and tighten the criteria to be within 50 miles of Orlando, FL
-The other option is to jump over to an already curated list, like the one hosted by Dwayne at [otech.events](https://otech.events/) and then go to the **Groups** tab
+1. To start, make sure you create a Meetup account on [Meetup.com](https://www.meetup.com/).
+
+Next, you can search for the term "Tech" and tighten the criteria to be within 50 miles of Orlando, FL.
+
+Another option is to jump over to an already curated list, like the one hosted by Dwayne at [otech.events](https://otech.events/) and then go to the **Groups** tab
+
+Finally, if you just want a quickstart grouping, check these Meetups out:
+
+  *[Project Codex: Orlando Junior Developers](https://www.meetup.com/orlando-juniors/)
+  *[Orlando Developers Group](https://www.meetup.com/OrlandoDevs/)
+  *[Front End Orlando CodePen](https://www.meetup.com/Front-End-Orlando/)
+  *[Code For Orlando](https://www.meetup.com/Code-For-Orlando/)
+  *[The Orlando Python User Group](https://www.meetup.com/OrlandoPython/)
+  *[OrlandoJS](https://www.meetup.com/OrlandoJS/)
+  *[ONETUG - Orlando .NET User Group](https://www.meetup.com/ONETUG/)
+  *[iOS Orlando](https://www.meetup.com/iOS-Orlando/)
+  *[Central Florida Android Developers Group](https://www.meetup.com/Central-Florida-Android-Developers-Group/)
 
 1. After you have looked over the list of available Meetups, go start attending them! Make it a goal to meet at least 3 new people at each one. You will find your circle of colleagues will grow tremendously.
 
