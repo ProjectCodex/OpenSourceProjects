@@ -127,3 +127,9 @@ There's also some different sites that aggregate beginner-friendly open source p
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/labels/first%20timers%20welcome)
 
 Project Codex is focused on getting its members comfortable with Open Source. Come out to our [meetup](https://www.meetup.com/project-code-experience/) and ask us lots of questions!
+
+## What if I can't afford a sandbox for coding?
+
+You can start by checking out this list of free resources for developers. It's an extensive collection of cloud vendors and coding tools offering free options for people starting their dev journey. 
+Be sure to spread the word to your friends about the site so that others can enjoy it as well. 
+* [Free for Developers](https://free-for.dev/#/)
