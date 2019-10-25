@@ -54,6 +54,7 @@ but this opens a whole new area of opportunities with many channels available in
 
 Keep an eye out for User Group conferences like [SQLSaturdayOrlando](https://www.sqlsaturday.com/), [Orlando Code Camp](https://orlandocodecamp.com/), and [DevFest](https://devfestflorida.org/).
 All of these are opportunities for you to network and grow within the community, and often contain not only technical resources, but jobs by way of recruiters and sponsors as well. 
+
 ---
 ## I can't make it to the meetups
 
