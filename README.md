@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/meetupimage.jpg" width="600" title="Meet Up Image">
+  <img src="./images/projectcodexlogo.png" title="Project Codex Brand Logo">
 </p>
 
 # Table of Contents:
